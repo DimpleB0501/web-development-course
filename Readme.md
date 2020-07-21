@@ -7,4 +7,5 @@ coffee cup - css software  <br/>
 div and border to get a good look  <br/>\
 HTML and CSS book -blackbook
 
-plesk.com 
+plesk.com  (Files -> docs -> Upload a page) <br/>
+Purchase a domain godaddy (abc.com)
