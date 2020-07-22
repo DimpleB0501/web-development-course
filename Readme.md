@@ -10,3 +10,4 @@ HTML and CSS book -blackbook
 plesk.com  (Files -> docs -> Upload a page) <br/>
 Purchase a domain godaddy (abc.com)  <br/>
 https://getbootstrap.com/ - > Download (Compiled CSS and JS): to make site responsive on devices like mobile, webpage and other devices.
+bootstrap code in folder with website page
