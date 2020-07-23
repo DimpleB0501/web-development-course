@@ -24,10 +24,9 @@ Make changes and use it as a template for your site (eg **104_template_zogin**).
 To find color value use color picker<br/>
 `google chrome -> color picker -> get rgb value in hex or rgb` <br/>
 
-<br/>
-`Google chrome -> Images - > Tools -> Color (for background) -> Select transparent` 
-<br/>
-To change the background to transparent of an image <br/>
+`Google chrome -> Images - > Tools -> Color (for background) -> Select transparent` <br/>
+
+To change the background to transparent of an image 
 `https://www3.lunapic.com/editor/ -> Edit -> Transparent background -> Change your image background -> choose file or select from next and change the background to transparent.`
 
 
