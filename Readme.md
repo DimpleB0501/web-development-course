@@ -29,4 +29,6 @@ To find color value use color picker<br/>
 To change the background to transparent of an image 
 `https://www3.lunapic.com/editor/ -> Edit -> Transparent background -> Change your image background -> choose file or select from next and change the background to transparent.`
 
-
+<br/>
+Database (SQL), To link the data base to internet sql server (server name) <br/>
+(backend:python, java, php, cSharp) <br/>
