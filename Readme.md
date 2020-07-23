@@ -13,4 +13,10 @@ https://getbootstrap.com/ - > Download (Compiled CSS and JS): to make site respo
 bootstrap code in folder with website page
 <br/>
 `webpage -> right click -> view page source or save as webpage output will be 103_a_flipkart.html`
+<br/>
+Download templates from<br/>
+https://colorlib.com/wp/free-css-website-templates/<br/>
+Make changes and use it as a template for your site. There are other options as well
+<br/>
+
 
