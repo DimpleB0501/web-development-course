@@ -15,15 +15,14 @@ https://getbootstrap.com/ - > Download (Compiled CSS and JS): to make site respo
 bootstrap code in folder with website page
 <br/>
 <br/>
-Downloading webpage as it is: <br/>
+Downloading webpage as it is:
 `webpage -> right click -> view page source or save as webpage output will be 103_a_flipkart.html`
 <br/>
 <br/>
 Download templates from<br/>
 https://colorlib.com/wp/free-css-website-templates/<br/>
 Make changes and use it as a template for your site (eg **104_template_zogin**). There are other options as well.
-<br/>
-<br/>
+
 `google chrome -> color picker -> get rgb value in hex or rgb` <br/>
 
 
