@@ -11,3 +11,6 @@ plesk.com  (Files -> docs -> Upload a page) <br/>
 Purchase a domain godaddy (abc.com)  <br/>
 https://getbootstrap.com/ - > Download (Compiled CSS and JS): to make site responsive on devices like mobile, webpage and other devices.
 bootstrap code in folder with website page
+<br/>
+`webpage -> right click -> view page source or save as webpage output will be 103_a_flipkart.html`
+
