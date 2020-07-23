@@ -32,3 +32,5 @@ To change the background to transparent of an image
 <br/>
 Database (SQL), To link the data base to internet sql server (server name) <br/>
 (backend:python, java, php, cSharp) <br/>
+
+client side (A very good look than use javascript)
