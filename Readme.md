@@ -21,9 +21,9 @@ Downloading webpage as it is:
 <br/>
 Download templates from<br/>
 https://colorlib.com/wp/free-css-website-templates/<br/>
-Make changes and use it as a template for your site (eg **104_template_zogin**). There are other options as well.<br/>
+Make changes and use it as a template for your site (eg **104_template_zogin**). There are other options as well.<br/> <br/>
 
-To find color value use color picker
+To find color value use color picker<br/>
 `google chrome -> color picker -> get rgb value in hex or rgb` <br/>
 
 
